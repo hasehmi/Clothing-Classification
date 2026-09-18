@@ -44,7 +44,4 @@ The final evaluation and prediction-visualization cells need to be run (they req
 - Try a slightly deeper architecture or batch normalization, compared against this baseline rather than assumed to be better.
 - Look at a full confusion matrix specifically for the visually similar classes (shirt/coat/pullover) to see where most errors concentrate.
 
-## Author
 
-Ans Tanveer Hashmi — BS Data Science, MNS University of Agriculture, Multan.
-[LinkedIn] · [GitHub]
